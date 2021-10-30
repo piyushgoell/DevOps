@@ -50,7 +50,7 @@ The development team is always deploying changes and not really prioritizing sta
 It is about **collaboration** between Dev and Ops.
 They both share the same goal and prioritize speed and stability equally.
 
-![DevOps Culture](images/2.jpg)
+![DevOps Culture](images/2.JPG)
 
 #### Goals
 
@@ -64,7 +64,7 @@ In this, the code bounces back and fourth between Dev and QA as QA discovers pro
 
 Problem now is that each group's domain is a black box to the other groups that means the developer don't really have much visibility into the production system and operations have a very little visibility into the code.
 
-![DevOps Culture](images/3.jpg)
+![DevOps Culture](images/3.JPG)
 
 ## DevOps Silos
 
@@ -72,7 +72,7 @@ When the developer commits their code, this initiates a series of automated step
 
 Because all these steps are automated the QAs can get their hands on code almost immediately after the developer write it, which means they can be testing constantly while developer are writing the code.
 
-![DevOps Culture](images/4.jpg)
+![DevOps Culture](images/4.JPG)
 
 Once the code is ready to be deployed to production, an automated deployment is kicked off and code gets to production in a consistent and stable manner.
 
