@@ -38,7 +38,7 @@ The goal of the development team is to deliver features into the hands of the cu
 
 These two goals ends up becoming opposition to one another, because one of the worst things for stability is changes. Everytime you change the system you introduced the instability.
 
-![Traditional Model](images/1.jpg)
+![Traditional Model](images/1.JPG)
 
 The development team is always deploying changes and not really prioritizing stability while the operations team is trying to slow down the development team in order to amintain stability.
 
