@@ -1,3 +1,6 @@
+# DevOps and DevOps Culture
+
+
 # What is DevOps ?
 
 **Dev (Development) + Ops (Operations)**  
@@ -35,7 +38,7 @@ The goal of the development team is to deliver features into the hands of the cu
 
 These two goals ends up becoming opposition to one another, because one of the worst things for stability is changes. Everytime you change the system you introduced the instability.
 
-![](images/1.jpg)
+![Traditional Model](images/1.jpg)
 
 The development team is always deploying changes and not really prioritizing stability while the operations team is trying to slow down the development team in order to amintain stability.
 
@@ -47,7 +50,7 @@ The development team is always deploying changes and not really prioritizing sta
 It is about **collaboration** between Dev and Ops.
 They both share the same goal and prioritize speed and stability equally.
 
-![](images/2.jpg)
+![DevOps Culture](images/2.jpg)
 
 ### Goals
 
@@ -55,3 +58,24 @@ They both share the same goal and prioritize speed and stability equally.
 - Few production failures.
 - Immediate recovery from failures.
 
+# Traditional Silos
+
+In this, the code bounces back and fourth between Dev and QA as QA discovers problems and Dev fix them and finally, it is ready for production. but, If Operation team found some problem. they will throw it back to the Dev.
+
+Problem now is that each group's domain is a black box to the other groups that means the developer don't really have much visibility into the production system and operations have a very little visibility into the code.
+
+![DevOps Culture](images/3.jpg)
+
+# DevOps Silos
+
+When the developer commits their code, this initiates a series of automated steps, automated builds, automated integration, automated testing and eventually automated deployment.
+
+Because all these steps are automated the QAs can get their hands on code almost immediately after the developer write it, which means they can be testing constantly while developer are writing the code.
+
+![DevOps Culture](images/4.jpg)
+
+Once the code is ready to be deployed to production, an automated deployment is kicked off and code gets to production in a consistent and stable manner.
+
+**DevOps Culture is the series of automated steps and the series of tools that enables this process requires collaboration between all of these teams.**
+
+One of the important aspects of all this automation that goes with devops is monitoring. It will inform the team in both successful and failure scenario.
