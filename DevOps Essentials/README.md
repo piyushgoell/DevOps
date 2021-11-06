@@ -14,6 +14,7 @@ This course provides a basic introduction to the concept of DevOps. It seeks to 
 ![Certificate](images/E233688C291A.pdf)
 
 <object data="images/E233688C291A.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="images/E233688C291A.pdf">
-    </embed>
 </object>
+
+<embed src="images/E233688C291A.pdf">
+</embed>
