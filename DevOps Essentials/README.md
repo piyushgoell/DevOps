@@ -12,11 +12,3 @@ This course provides a basic introduction to the concept of DevOps. It seeks to 
 
 
 <object data="images/E233688C291A.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-
-
-[Verify the Certificate](https://verify.acloud.guru/E233688C291A)
-
-![Certificate](images/E233688C291A.pdf)
-
-[embed]https://verify.acloud.guru/E233688C291A.pdf[/embed]
