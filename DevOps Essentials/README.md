@@ -18,3 +18,5 @@ This course provides a basic introduction to the concept of DevOps. It seeks to 
 
 <embed src="images/E233688C291A.pdf" type="application/pdf">
 </embed>
+
+[embed]https://verify.acloud.guru/E233688C291A[/embed]
