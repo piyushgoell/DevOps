@@ -9,6 +9,6 @@ This course provides a basic introduction to the concept of DevOps. It seeks to 
 - DevOps Tools
 - Devops and the cloud
 
+![Certificate](images/E233688C291A.jpg)
 
-
-<object data="images/E233688C291A.pdf" width="1000" height="1000" type='application/pdf'></object>
+[Verify Certificate](https://verify.acloud.guru/E233688C291A)
