@@ -16,5 +16,5 @@ This course provides a basic introduction to the concept of DevOps. It seeks to 
 <object data="images/E233688C291A.pdf" type="application/pdf" width="700px" height="700px">
 </object>
 
-<embed src="images/E233688C291A.pdf">
+<embed src="images/E233688C291A.pdf" type="application/pdf">
 </embed>
