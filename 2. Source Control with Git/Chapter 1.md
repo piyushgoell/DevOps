@@ -211,3 +211,12 @@ By default, cleans out objects that are older than two weeks.
     git gc --prune
     git gc --auto [check if repository needs cleaning]
     git config gc.pruneexpire "30 days"
+
+
+    git log
+    git log --graph
+    git log --since="4 days ago"
+    git log -S build
+    git log --stat
+    git log --shortstat
+    git log --pretty=format:"%h - %an - %ar - %s"
