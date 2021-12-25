@@ -1,4 +1,4 @@
-# DevOps Essential
+## Introduction to Containers and Docker
 Introduction to Containers and Docker leverages the container platform Docker to explore basic container concepts and demonstrates where containers fit in the current technological landscape.
 
 The course begins by providing context around what containers actually are. Next, we reinforce this with practical hands-on learning of the container lifecycle, from deploying to general management to removing and replacing containers as your application or desired container environment changes. We also explore how to deploy our own applications or microservices by learning about container images and how to alter these images to create our own Docker builds.
