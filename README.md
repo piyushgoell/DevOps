@@ -24,12 +24,13 @@
 6. [Introduction to Kubernetes](/6.%20Introduction%20to%20Kubernetes)
 7. [DevOps Monitoring](/7.%20DevOps%20Monitoring)
 
-[](/1.%20DevOps%20Essentials/images/E233688C291A.jpg)
-[](/2.%20Source%20Control%20with%20Git/images/366F4F5ECE91.jpg)
-[](/3.%20Jenkins/3.1%20Jenkins%20Fundamentals/images/FD96C2E002C5.jpg)
-[](/3.%20Jenkins/3.2%20Jenkins%20Pipelines/images/D1051973FF05.jpg)
-[](/4.%20Ansible/images/E1CFBA4FFA2D.jpg)
-[](/5.%20Introduction%20to%20Containers%20and%20Docker/images/437D30E12A39.jpg)
-[](/6.%20Introduction%20to%20Kubernetes/images/D1D782832FF8.jpg)
-[](/7.%20DevOps%20Monitoring/images/0EA175921D68.jpg)
+## **Certificates**
+![](/1.%20DevOps%20Essentials/images/E233688C291A.jpg)
+![](/2.%20Source%20Control%20with%20Git/images/366F4F5ECE91.jpg)
+![](/3.%20Jenkins/3.1%20Jenkins%20Fundamentals/images/FD96C2E002C5.jpg)
+![](/3.%20Jenkins/3.2%20Jenkins%20Pipelines/images/D1051973FF05.jpg)
+![](/4.%20Ansible/images/E1CFBA4FFA2D.jpg)
+![](/5.%20Introduction%20to%20Containers%20and%20Docker/images/437D30E12A39.jpg)
+![](/6.%20Introduction%20to%20Kubernetes/images/D1D782832FF8.jpg)
+![](/7.%20DevOps%20Monitoring/images/0EA175921D68.jpg)
 
