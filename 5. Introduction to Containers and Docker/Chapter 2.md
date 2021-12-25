@@ -1,3 +1,85 @@
+# What is docker?
+Docker is an oper source platform for building, deploying and managing containerized applicaitons.
+
+It makes easier to create, deploy and run applications by using containers.
+
+Containers package up an application with all of the parts it needs.
+
+Containers allows applications to run on any linux machine regardless of configuration.
+
+Applications run in a loosely isolated environment called a container.
+
+Containers are lightweight.
+
+## **Docker Engine**
+It is a client server application
+1. Server runs as a daemon process.
+2. REST API
+3. A command line inerface (CLI) client.
+
+## **Docker Commands**
+    # Attach local standard input,output and stream error to a running container.
+    docker attach
+
+    # Build an image from Dockerfile
+    docker build
+
+    # Run a command in a running container
+    docker exec
+    
+    # List images
+    docker images
+    
+    # Display system-wide info
+    docker info
+
+    # Return low-level inforamtion about docker object
+    docker inspect
+    
+    # Fetch the logs of a container
+    docker logs
+    
+    # Manage networks
+    docker network
+    
+    # Manage Swarm nodes
+    docker node
+
+    # List containers
+    docker ps
+    
+    # Pull an image or a repository from a registry
+    docker pull
+
+    # Push an image or a repository to a registory
+    docker push
+
+    # Restart one or more containers
+    docker restart
+
+    # Remove one or more containers
+    docker rm
+
+    # Remove one or more images
+    docker rmi
+
+    # Run a command in a new container
+    docker run
+
+    # Start one or more stopped containers
+    docker start
+
+    # Stop one or more running containers
+    docker stop
+
+    # Manage Swarm
+    docker swarm
+
+    # Manage Volumes
+    docker volume
+
+
+
 # **LifeCycle and Maintenance**
 
 ## **Launching and Listing Container**
@@ -122,7 +204,7 @@
 3. Everything we need ->
 4. Base images on other images -> Images can have a parent image on which they are based. there is no need to recreate the wheel each time.
 
-## **Building a D ockerfile**
+## **Building a Dockerfile**
 
 1. Defime parent image
 

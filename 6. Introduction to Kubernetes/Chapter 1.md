@@ -32,6 +32,7 @@ So, Woker nodes is a machine that runs containers within the cluster and each no
 ## Building a Kubernetes Cluster
 
 ### What is kuberadm?
+It is an open source container orchestration tool for containers.
 It is a tool that will simplyfy the process of setting up our kubernetes cluster.
 
 

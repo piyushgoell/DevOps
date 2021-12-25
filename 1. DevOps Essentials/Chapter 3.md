@@ -15,7 +15,7 @@ Example:-
 - Make - widely used in Unix-based system.
 - Packer - build machine images and containers
 
-**Continuous Integraation** - Continupusly merging code into single branch or mainline. It usually consist of server that integrated with the source control. When source code is changed, the server responds by executing a automated build.
+**Continuous Integration** - Continupusly merging code into single branch or mainline. It usually consist of server that integrated with the source control. When source code is changed, the server responds by executing a automated build.
 
  Example:-
  - Jenkins : OpenSource, Widely Used, Java Servlet based.
